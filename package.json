@@ -9,7 +9,6 @@
     "db:studio": "drizzle-kit studio",
     "build": "npx tsc",
     "test": "vitest --run",
-    "job": "npm ci",
     "start": "node dist/main.js",
     "dev": "npx tsc && node dist/main.js"
   },
